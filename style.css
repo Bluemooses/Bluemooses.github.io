@@ -3,11 +3,7 @@ h2 {
   text-align: left;
   font-size: 20px;
   font-family: "Avant Garde";
-<<<<<<< HEAD
   margin-bottom: 2px;
-=======
-  margin-bottom: -10px;
->>>>>>> cd78ee650ff4453f4c98febb8ea7a1a3bb871a9f
 }
 
 .Bluemooses {
@@ -15,8 +11,8 @@ h2 {
   text-align: center;
   color: DarkSlateGray;
   font-family: Helvetica, serif;
-  background-image: url("https://i.imgur.com/TkOE6AA.png");
-  background-size:cover;
+  background-image: url("https://i.imgur.com/rZyWRl1.png");
+  background-size:;
 
 }
 
@@ -24,7 +20,7 @@ h2 {
 font-style: italic;
 font-family: "Times New Roman", Serif;
 color: DimGray;
-background-color: Indigo;
+
 }
 
 h6{
