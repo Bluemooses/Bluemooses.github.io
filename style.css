@@ -7,12 +7,12 @@ h2 {
 }
 
 .Bluemooses {
-  font-size: 20px;
+  font-size: 16px;
   text-align: center;
-  color: DimGray;
-  font-family: serif, Helvetica;
+  color: DarkSlateGray;
+  font-family: Helvetica, serif;
   background-image: url("https://i.imgur.com/TkOE6AA.png");
-  background-size: contain;
+  background-size:cover;
 
 }
 
@@ -21,4 +21,11 @@ font-style: italic;
 font-family: "Times New Roman", Serif;
 color: DimGray;
 background-color: Indigo;
+}
+
+h6{
+  text-align: left;
+  margin-bottom: 2px;
+
+
 }
