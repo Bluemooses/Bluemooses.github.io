@@ -9,7 +9,7 @@ h2 {
 .Bluemooses {
   font-size: 16px;
   text-align: center;
-  color: DarkSlateGray;
+  color: White;
   font-family: Helvetica, serif;
   background-image: url("https://i.imgur.com/INdfD3Q.jpg");
   background-size: auto;
@@ -31,15 +31,15 @@ h6{
 }
 
 address {
-  color: DarkSlateGray;
+  color: White;
 
 }
 a:link{
-  color: DarkSlateGray;
+  color: White;
 }
 a:visited {
   color: Black;
 }
 a:hover{
-  color: White;
+  color: DarkRed;
 }
