@@ -10,5 +10,6 @@ h2 {
   text-align: center;
   color: Maroon;
   font-family:serif, Helvetica;
-  background-image: url('https://imgur.com/TkOE6AA');
+  background-image: url("https://imgur.com/TkOE6AA");
+  background-size: cover;
 }
