@@ -12,7 +12,7 @@ h2 {
   color: DarkSlateGray;
   font-family: Helvetica, serif;
   background-image: url("https://i.imgur.com/rZyWRl1.png");
-  background-size:;
+  background-size: contain;
 
 }
 
