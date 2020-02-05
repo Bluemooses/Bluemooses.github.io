@@ -2,14 +2,14 @@ h2 {
   color: DarkRed;
   text-align: left;
   font-size: 20px;
-  font-family: sans-serif, Avant Garde;
+  font-family: "Avant Garde";
 }
 
 .Bluemooses {
   font-size: 20px;
   text-align: center;
   color: DimGray;
-  font-family:serif, Helvetica;
+  font-family: serif, Helvetica;
   background-image: url("https://i.imgur.com/TkOE6AA.png");
   background-size: contain;
 
@@ -17,6 +17,6 @@ h2 {
 
 .Greenthumb{
 font-style: italic;
-font-family: cursive;
+font-family: "Times New Roman", Serif;
 color: DimGray;
 }
