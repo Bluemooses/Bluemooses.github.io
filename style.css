@@ -11,8 +11,10 @@ h2 {
   color: Maroon;
   font-family:serif, Helvetica;
   background-image: url("https://i.imgur.com/TkOE6AA.png");
-  background-size: auto;
+  background-size: contain;
 
 }
 
-.Greenthumb
+.Greenthumb{
+
+}
