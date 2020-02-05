@@ -29,3 +29,17 @@ h6{
 
 
 }
+
+address {
+  color: DarkSlateGray;
+
+}
+a:link{
+  color: DarkSlateGray;
+}
+a:visited {
+  color: Black;
+}
+a:hover{
+  color: White;
+}
