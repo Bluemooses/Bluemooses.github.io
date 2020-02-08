@@ -1,72 +1,72 @@
 h2 {
-  color: DarkRed;
-  text-align: left;
-  font-size: 20px;
-  font-family: "Avant Garde";
-  margin-bottom: 0px;
-  margin-top: 15px;
-  text-decoration: underline;
+    color: DarkRed;
+text-align: left;
+    font-size: 20px;
+      font-family: "Avant Garde";
+ margin-bottom: 0px;
+ margin-top: 15px;
+ text-decoration: underline;
 }
 
 h4{
-  text-align: left;
-  margin-bottom:2px;
-  margin-top:2px;
+text-align: left;
+ margin-bottom:2px;
+ margin-top:2px;
 }
 
 ul {
-  text-align: left;
-  margin-bottom:10px;
-  margin-top:0px;
-  font-weight:bolder;
-  text-indent: -2em;
+text-align: left;
+ margin-bottom:10px;
+ margin-top:0px;
+      font-weight:bolder;
+    text-indent: -2em;
   text-decoration: underline;
 
 }
 
 h6{
-  text-align: left;
-  margin-bottom: 2px;
-  margin-top:8px;
+text-align: left;
+ margin-bottom: 2px;
+ margin-top:8px;
 
 
 }
 .Bluemooses {
-  font-size: 16px;
-  text-align: center;
-  color: White;
-  font-family: Helvetica, serif;
-  background-image: url("https://i.imgur.com/INdfD3Q.jpg");
-  background-size:cover;
+      font-size: 16px;
+text-align: center;
+    color: White;
+      font-family: Helvetica, serif;
+            background-image: url("https://i.imgur.com/INdfD3Q.jpg");
+              background-size:cover;
 
 }
 
 .Greenthumb{
-font-style: italic;
-font-family: "Times New Roman", Serif;
-color: DimGray;
-font-weight: bolder;
+          font-style: italic;
+      font-family: "Times New Roman", Serif;
+   color: DimGray;
+                  font-weight: bolder;
 }
 
 a:{
-  font-weight:bold;
+                  font-weight:bold;
 
 }
 a:link{
-  color: White;
+   color: White;
 }
 a:visited {
-  color: Black;
+   color: Black;
 }
 a:hover{
-  color: DarkRed;
+   color: DarkRed;
 }
 h5{
-  font-size: 16px;
-  color: DarkSlateBlue;
+      font-size: 16px;
+   color: DarkSlateBlue;
   margin-bottom: 0px;
   margin-top: 2px;
-  font-weight: 10000;
+                  font-weight: 10000;
 }
 .spacingfix {
 
