@@ -15,12 +15,17 @@ h4{
 
 ul {
   text-align: left;
+<<<<<<< HEAD
   margin-bottom:10px;
   margin-top:0px;
   font-weight:bolder;
   text-indent: -2em;
   text-decoration: underline;
 
+=======
+  margin-bottom:0px;
+  margin-top:0px;
+>>>>>>> e8585f01164c651bc2e8f1a788d1da1141a5d9dd
 }
 
 h6{
