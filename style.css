@@ -66,11 +66,10 @@ h5{
   color: DarkSlateBlue;
   margin-bottom: 0px;
   margin-top: 2px;
+  font-weight: 10000;
 }
 .spacingfix {
-<<<<<<< HEAD
-  margin-top: 20px !important;
-=======
-  margin-top: 5px;
->>>>>>> 8684dafdb7e7b20e233c0666726400c2d0490dd7
+
+  margin-top: 10px !important;
+  margin-bottom: 3px !important;
 }
