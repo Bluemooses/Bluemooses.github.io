@@ -67,3 +67,6 @@ h5{
   margin-bottom: 0px;
   margin-top: 2px;
 }
+.spacingfix {
+  margin-top: 20px !important;
+}
