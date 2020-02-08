@@ -6,7 +6,11 @@ h2 {
   margin-bottom: 2px;
   margin-top: 15px;
   text-decoration: overline;
+<<<<<<< HEAD
   text-decoration:underline;
+=======
+  text-decoration: underline;
+>>>>>>> 115a80f6c4fe63ff839dad77744ce8888e6e0a12
 }
 
 h4{
