@@ -68,5 +68,9 @@ h5{
   margin-top: 2px;
 }
 .spacingfix {
+<<<<<<< HEAD
   margin-top: 20px !important;
+=======
+  margin-top: 5px;
+>>>>>>> 8684dafdb7e7b20e233c0666726400c2d0490dd7
 }
