@@ -77,7 +77,8 @@ h5{
 
 img {
   border-radius: 50%;
-  image-orientation:center
   height: 200px;
   width: 200px;
+  image-orientation: center;
+  float:right;
 }
