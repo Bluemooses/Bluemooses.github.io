@@ -34,10 +34,11 @@ text-align: left;
 .Bluemooses {
       font-size: 16px;
 text-align: center;
-    color: White;
+    color: Black;
       font-family: Helvetica, serif;
             background-image: url("https://i.imgur.com/INdfD3Q.jpg");
               background-size:cover;
+                  font-weight:20000;
 
 
 }
@@ -50,11 +51,11 @@ text-align: center;
 }
 
 a:{
-                  font-weight:bold;
+                  font-weight:20000;
 
 }
 a:link{
-   color: White;
+   color: Black;
 }
 a:visited {
    color: Black;
