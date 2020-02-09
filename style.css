@@ -38,7 +38,7 @@ text-align: center;
       font-family: Helvetica, serif;
             background-image: url("https://i.imgur.com/INdfD3Q.jpg");
               background-size:cover;
-              img: url("https://i.imgur.com/HlJqr41.jpg"), align: right;
+
 
 }
 
@@ -67,14 +67,17 @@ h5{
    color: DarkSlateBlue;
   margin-bottom: 0px;
   margin-top: 2px;
-<<<<<<< HEAD
                   font-weight: 10000;
-=======
-  font-weight: 2000;
->>>>>>> 0e2f3a6fe389849f73f0e2e4c33d5b96ecb2bccc
 }
 .spacingfix {
 
   margin-top: 10px !important;
   margin-bottom: 3px !important;
+}
+
+img {
+  border-radius: 50%;
+  image-orientation:center;
+
+
 }
