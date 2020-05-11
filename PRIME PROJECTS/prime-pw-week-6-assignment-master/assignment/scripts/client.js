@@ -3,15 +3,15 @@ $(document).ready(pageReady);
 let garage = [];
 const maxSpaces = 3;
 
-/*
-Do not change newCar for base mode!
-*/
-function newCar(yearInput, makeInput, modelInput){
-  console.log('in newCar:', yearInput, makeInput, modelInput);
-  const newCarObject = {
-    year: yearInput,
-    make: makeInput,
-    model: modelInput
+
+//puts cars into garage
+function newCar( yearIn, makeIn, modelIn, pictureIn ){
+  console.log( 'in newCar:', yearIn, makeIn, modelIn, pictureIn );
+  let newCarObject = {
+    year: yearIn,
+    make: makeIn,
+    model: modelIn,
+    image: pictureIn,
   }
   garage.push(newCarObject);
   return true;
