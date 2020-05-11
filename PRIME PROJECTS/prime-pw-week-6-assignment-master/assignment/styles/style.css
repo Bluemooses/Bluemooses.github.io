@@ -32,3 +32,10 @@ h3 {
   text-alight: center;
   color: #2a8448;
 }
+
+ul {
+  font-size: 30px;
+  font-family: helvetica;
+  font-style: italic;
+  font-weight: 900;
+}
