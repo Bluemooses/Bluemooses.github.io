@@ -1,0 +1,34 @@
+body {
+  background-image: url("https://cdntdreditorials.azureedge.net/cache/c/d/8/9/3/1/cd8931a86ea2b5b7a770ceae856c791942ab1e17.jpg")
+}
+
+h1 {
+  font-size: 10px;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 60px;
+  color: #2a8448;
+}
+
+input {
+  font-size: 20px;
+  color: grey;
+}
+
+button {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 40px;
+  text-align: right;
+  color: #2a8448;
+}
+
+h3 {
+  font-size: 30px;
+  text-alight: center;
+  color: #2a8448;
+}
