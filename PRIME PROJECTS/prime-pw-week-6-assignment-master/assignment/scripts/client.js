@@ -86,4 +86,4 @@ function pageReady() {
   //handle click event
   $('#parkCarButton').on('click', addCar);
 }
-//end pageReady
+//end pageReady 
