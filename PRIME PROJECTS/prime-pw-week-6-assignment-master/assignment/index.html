@@ -1,16 +1,30 @@
 <!DOCTYPE html>
 <html>
-<script src="scripts/jQuery.js"></script>
 
 <head>
   <meta charset="utf-8">
-
+  <script src='scripts/jQuery.js'></script>
   <script src="scripts/client.js" charset="utf-8"></script>
+  <link rel='stylesheet' href='styles/style.css' />
   <title>Week 6 Tier 1 Assignment</title>
 </head>
 
 <body>
-  <h1>Week 6 Tier 1 Assignment</h1>
+  <h1 id='title'>Week 6 Tier 1 Assignment</h1>
+  <h2 id='whatCar'>Which car would you like to park?</h2>
+  <input type='number' placeholder='Year' id='yearInput'>
+  <input type='text' placeholder='Make' id='makeInput'>
+  <input type='text' placeholder='Model' id='modelInput'>
+  <input type='text' placeholder='Vehicle image URL' id='pictureInput'>
+  <button id='parkCarButton'>Add Car</button>
+  <h4 id='warning'>Inputs disabled if garage is full.</h4>
+  <br />
+  <br />
+  <h3 id='listHeader'>List of cars already parked in garage</h3>
+  <div id='carList'>
+    <ul id='garageList'>
+    </ul>
+  </div>
 </body>
 
 </html>
