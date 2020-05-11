@@ -1,4 +1,7 @@
+$(document).ready(pageReady);
+
 let garage = [];
+const maxSpaces = 3;
 
 /*
 Do not change newCar for base mode!
