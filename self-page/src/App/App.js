@@ -1,7 +1,7 @@
 import React from "react";
 import axios from "axios";
 
-import "./App.css";
+import "./App.scss";
 import Header from "../Components/Header/Header";
 
 import Footer from "../Components/Footer/Footer";
