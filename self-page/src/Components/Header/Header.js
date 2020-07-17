@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import "./Header.css";
+import "./Header.scss";
 
 import {
   faLinkedin,
@@ -12,9 +12,8 @@ export default function Header() {
   return (
     <div class="social-container">
       <title>Jacob F. Brenke</title>
-      <img src="https://i.imgur.com/HlJqr41.jpg"></img> 
+      <img src="https://i.imgur.com/HlJqr41.jpg"></img>
       <h2>Jacob F. Brenke</h2>
-      <button className="button">Hello</button>
     </div>
   );
 }
