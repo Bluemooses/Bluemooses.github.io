@@ -1,5 +1,6 @@
 body {
   background-image: url("../Images//frydek-abstract.jpg");
+  
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -23,6 +24,7 @@ h4 {
   align-items: auto;
   text-align: center;
   text-emphasis-color: #eee;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .card {
@@ -33,7 +35,7 @@ h4 {
   align-items: center;
   flex-direction: column;
   border-radius: 25px;
-  padding: 7%;
+  padding: 6%;
   margin: 5%;
   box-shadow: 10px 10px;
   align-self: start;

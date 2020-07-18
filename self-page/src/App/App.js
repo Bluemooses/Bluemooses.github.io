@@ -8,7 +8,6 @@ import {
 } from "react-router-dom";
 import axios from "axios";
 import { useRoutes } from "hookrouter";
-import Routes from "../Components/Router/Router";
 import "./App.scss";
 import Header from "../Components/Header/Header";
 import About from "../Components/About/About";
@@ -23,18 +22,25 @@ const App = (props) => {
       <Router>
         <Switch>
           <Route path="/about">
+            <Header />
+            <Nav />
             <About />
+            <Footer />
           </Route>
           <Route path="/mission">
+            <Header />
+            <Nav />
             <Mission />
+            <Footer />
+          </Route>
+
+          <Route path="/">
+            <Header />
+            <Nav />
+            <Body />
+            <Footer />
           </Route>
         </Switch>
-        <Route path="/">
-          <Header />
-          <Nav />
-          <Body />
-          <Footer />
-        </Route>
       </Router>
     </div>
   );

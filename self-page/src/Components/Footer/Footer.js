@@ -11,6 +11,7 @@ export default function Footer() {
   return (
     <div class="social-container">
       <h3 className="heading">© Jacob Brenke 2020</h3>
+      <h4>Check Me Out</h4>
       <a
         href="https://www.linkedin.com/in/jacob-brenke-aab554173/"
         className="linkedin social"

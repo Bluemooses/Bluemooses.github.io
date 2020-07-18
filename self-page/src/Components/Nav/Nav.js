@@ -10,12 +10,26 @@ export default function Nav(props) {
         <button
           className="navButton"
           onClick={() => {
+            history.push("/");
+          }}
+        >Home</button>
+
+        <button
+          className="navButton"
+          onClick={() => {
             history.push("/about");
           }}
         >
           About Me
         </button>
-        <button className="navButton" onClick={() => {history.push("/mission")}}>Statement</button>
+        <button
+          className="navButton"
+          onClick={() => {
+            history.push("/mission");
+          }}
+        >
+          Mission
+        </button>
       </span>
     </div>
   );
