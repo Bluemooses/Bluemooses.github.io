@@ -5,8 +5,13 @@ export default function Mission(props) {
   let history = useHistory();
   return (
     <div class="card">
-      <p>This is designed to be a mission statement!</p>
-      <button className="backButton" onClick={() => history.push("/")}>Home</button>
+      <p>
+        To create an open and honest environment where people feel free to be
+        themselves.
+      </p>
+      <button className="backButton" onClick={() => history.push("/")}>
+        Home
+      </button>
     </div>
   );
 }

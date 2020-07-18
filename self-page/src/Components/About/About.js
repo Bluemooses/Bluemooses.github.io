@@ -5,7 +5,7 @@ export default function About() {
 
   return (
     <div class="card">
-      <p>This is designed to be a route!</p>
+      <p>Creative problem solver with natural curiosity and a forever student.</p>
       <button className="backButton" onClick={() => history.push("/")}>
         Home
       </button>
