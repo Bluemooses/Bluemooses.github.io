@@ -3,11 +3,11 @@ import "./Body.scss";
 export default function Body() {
   return (
     <div class="card">
+      <label> Software Engineer</label>
       <ul>
-        <li>Software Engineer</li>
+        <li>Growth Mindset</li>
         <li>Detail Oriented</li>
         <li>Creative Mind</li>
-        <li>Growth Mindset</li>
       </ul>
     </div>
   );
